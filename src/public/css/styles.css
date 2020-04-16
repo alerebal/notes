@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(81, 81, 83);
+}
+
+
+.user {
+    width: 50%;
+}
+
+.main {
+    min-height: 550px;
+    background-color: cadetblue;
+}
